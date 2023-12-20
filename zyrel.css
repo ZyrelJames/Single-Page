@@ -2,8 +2,11 @@ body {
     font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a1cfdd;
-    color: #333;
+    background-color: #f2f5f7;
+    background-image: url("d:\PX5H.gif");
+    color: #fcfcfc;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -12,8 +15,7 @@ body {
 }
 
 header {
-    background-color: #15395f;
-    color: white;
+    color: rgb(207, 202, 202);
     padding: 40px 0;
     text-align: center;
 }
@@ -50,7 +52,6 @@ nav a:hover {
 }
 
 main {
-    background-color: white;
     padding: 40px;
     margin-top: 20px;
     border-radius: 8px;
